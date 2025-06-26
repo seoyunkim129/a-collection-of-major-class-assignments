@@ -13,7 +13,7 @@
 - 프로젝트 설명: 팀플로 진행한 과제로, 기존의 구글공룡 점프 게임 내용에서 업그레이드(캐릭터 변경, 아이템 취득시 점수업,오프닝이벤트)한 코드입니다.
 ### 4)웹프로그래밍
 - https://github.com/seoyunkim129/Web-programming
-- 프로젝트 설명: ksy8534.pythonanywhere.com를 통해 배포했음. 
+- 프로젝트 설명: flaskf를 이용해 간단한 영화리뷰 게시판을 만들고 ksy8534.pythonanywhere.com를 통해 배포했음. 
 ### 5)자료구조및알고리즘
 - https://github.com/seoyunkim129/Data-Structure-and-Algorithms
 - 프로젝트 설명: 선형 리스트, 단일 연결 리스트, 원형 연결 리스트를 구현해보았으며, 스택, 큐, 이진 트리도 코드로 작성하였습니다.
@@ -66,5 +66,5 @@
 - https://github.com/seoyunkim129/Database-Applications
 - 프로젝트 설명: 학교수업시간에 실습한 CookDB 예제를 그대로 보며 따라 코딩해보고 이 코드를 참고하여 여기서 좀 더 발전된 MarketDB에 대해 저장 프로시저, 트리거, 사용자 정의 함수를 직접 코딩해보고 보고서를 작성하였습니다.
 
-## 15)청소년데이터공모전
+## 5.청소년데이터공모전
 
